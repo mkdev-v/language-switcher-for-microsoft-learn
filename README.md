@@ -39,5 +39,5 @@ MIT License
 
 ## 🌐 Others
 
-- Firefox Web Store: https://addons.mozilla.org/ja/firefox/addon/mymenu/
-- Chrome Web Store: https://chromewebstore.google.com/detail/mymenu+/pboachocjagcpkcjapgdpjbkfogebied
+- Firefox Web Store: https://addons.mozilla.org/ja/firefox/addon/lsfml/
+- Chrome Web Store: https://chromewebstore.google.com/detail/language-switcher-for-mic/neodnljehplhageblkohkjicnmmbhngj
